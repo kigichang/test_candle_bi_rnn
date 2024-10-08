@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+anyhow = "1.0.89"
 candle-core = { path = "../candle/candle-core" }
 candle-nn = { path = "../candle/candle-nn" }
