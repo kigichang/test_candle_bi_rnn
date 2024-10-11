@@ -1,0 +1,8 @@
+{
+    "input": 10,
+    "batch_size": 5,
+    "sequence_length": 3,
+    "hidden": 20,
+    "layers": 3,
+    "bidirection": true
+}
